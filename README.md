@@ -1,4 +1,3 @@
-```
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
   <h1 align="center">Welcome!</h1>
