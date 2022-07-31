@@ -6,7 +6,7 @@
   <h2>About Me:</h2>
   <ul>
     <li>Full Stack Software Developer</li>
-    <li>Proffesional Rapper/ Song Writer/ Artist</li>
+    <li>Proffesional Rapper/ Song Writer/ Artist </li>
     <li>Space, Anime, Fighting Enthusiast</li>
   </ul>
 🛠️ Languages and Frameworks:
