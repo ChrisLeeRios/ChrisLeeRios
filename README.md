@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/1gVUhlXhETaRRxzeHO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/goku-ultra-instinct-1gVUhlXhETaRRxzeHO">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
   <h1 align="center">Welcome!</h1>
 </div>
 <div>
